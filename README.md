@@ -1,1 +1,1 @@
-![snake gif](https://github.com/YOUR_USERNAME/TheGuyFN/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/TheGuyFN/TheGuyFN/blob/output/github-snake-dark.svg)
