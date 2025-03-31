@@ -1,6 +1,4 @@
 
-<div align="center">
-
 <h2 align="left">Hi 👋! I am TheGuy - Original Founder of Shadowrift</h2>
 
 ###
@@ -9,7 +7,7 @@
 
 ###
 
-<img align="right" height="270" src="https://i.imgur.com/QoCQHnf.gif"  />
+<img align="right" height="200" src="https://i.imgur.com/QoCQHnf.gif"  />
 
 ###
 
@@ -40,6 +38,8 @@
 </div>
 
 ###
+
+<div align="center">
 
 ![snake gif](https://github.com/TheGuyFN/TheGuyFN/blob/output/github-snake-dark.svg)
 
