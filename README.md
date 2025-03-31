@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">Proud owner and developer at Shadowrift<br>Launcher and Gameserver developer<br>Passionate about OGFN</p>
+<p align="left">- Proud owner and developer at Shadowrift<br>Launcher and Gameserver developer<br>Passionate about OGFN</p>
 
 ###
 
